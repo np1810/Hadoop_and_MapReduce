@@ -10,20 +10,27 @@ Hi, This repo contains some of my work done regarding the BigData, Hadoop and Ma
 ---
 ## Codes
 ##### COMPULSORY
-- [average_length_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/average_length/average_length_mapper.py) [Post and Answer Length Exercise]
-- [average_length_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/average_length/average_length_reducer.py) [Post and Answer Length Exercise]
-- [popular_tags_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags/popular_tags_mapper.py) [Top Tags Exercise]
-- [popular_tags_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags/popular_tags_reducer.py) [Top Tags Exercise]
-- [student_times_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/student_times/student_times_mapper.py) [Student Times Exercise]
-- [student_times_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/student_times/student_times_reducer.py) [Student Times Exercise]
-- [study_groups_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/study_groups/study_groups_mapper.py) [Study Groups Exercise]
-- [study_groups_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/study_groups/study_groups_reducer.py) [Study Groups Exercise]
+- **Post and Answer Length**
+ - [average_length_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/average_length/average_length_mapper.py) 
+ - [average_length_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/average_length/average_length_reducer.py)
+- **Top Tags**
+ - [popular_tags_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags/popular_tags_mapper.py)
+ - [popular_tags_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags/popular_tags_reducer.py)
+- **Student Times**
+ - [student_times_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/student_times/student_times_mapper.py)
+ - [student_times_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/student_times/student_times_reducer.py)
+- **Study Groups**
+ - [study_groups_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/study_groups/study_groups_mapper.py)
+ - [study_groups_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/study_groups/study_groups_reducer.py)
+- [**Questions & Answers**][qa]
 
 ##### EXTRA CREDIT
-- [quick_replies_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/quick_replies/quick_replies_mapper.py) [Gives Quickest Replied IDs]
-- [quick_replies_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/quick_replies/quick_replies_reducer.py) [Gives Quickest Replied IDs]
-- [popular_tags_extra_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags_extra/popular_tags_extra_mapper.py) [Popular Tags Extra Weighted]
-- [popular_tags_extra_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags_extra/popular_tags_extra_reducer.py) [Popular Tags Extra Weighted]
+- **Quickest Replied Posts**
+ - [quick_replies_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/quick_replies/quick_replies_mapper.py)
+ - [quick_replies_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/quick_replies/quick_replies_reducer.py)
+- **Popular Tags Extra -_Weighted_**
+ - [popular_tags_extra_mapper.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags_extra/popular_tags_extra_mapper.py)
+ - [popular_tags_extra_reducer.py](http://github.com/np1810/Hadoop_and_MapReduce/blob/master/L5_FinalProject/popular_tags_extra/popular_tags_extra_reducer.py)
 
 ---
 ## Final Project Report
@@ -69,6 +76,7 @@ Then do visit [my personal site][mysite] where you can find some more interestin
 [mysite]:http://nitinpathak.esy.es
 [donate]:http://supportunicef.org
 [license]:http://github.com/np1810/Hadoop_and_MapReduce/blob/master/LICENSE.md
+[qa]:http://github.com/np1810/Hadoop_and_MapReduce/blob/master/QA.md
 [al]:http://github.com/np1810/Hadoop_and_MapReduce/tree/master/L5_FinalProject/average_length/average_length_output.tsv
 [pt]:http://github.com/np1810/Hadoop_and_MapReduce/tree/master/L5_FinalProject/popular_tags/popular_tags_output.tsv
 [pte]:http://github.com/np1810/Hadoop_and_MapReduce/tree/master/L5_FinalProject/popular_tags_extra/popular_tags_extra_output.tsv
